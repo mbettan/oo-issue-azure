@@ -1,0 +1,206 @@
+[INFO] Scanning for projects...
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+[WARNING] Could not validate integrity of download from https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom: Checksum validation failed, no checksums available
+[WARNING] Checksum validation failed, no checksums available for https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+[INFO] Downloaded: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom (10 KB at 117.3 KB/sec)
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+[WARNING] Could not validate integrity of download from https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar: Checksum validation failed, no checksums available
+[WARNING] Checksum validation failed, no checksums available for https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+[INFO] Downloaded: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar (42 KB at 1823.6 KB/sec)
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/com/mycila/license-maven-plugin/3.0/license-maven-plugin-3.0.pom
+[WARNING] The POM for com.mycila:license-maven-plugin:jar:3.0 is missing, no dependency information available
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/com/mycila/license-maven-plugin/3.0/license-maven-plugin-3.0.jar
+[WARNING] Failed to retrieve plugin descriptor for com.mycila:license-maven-plugin:3.0: Plugin com.mycila:license-maven-plugin:3.0 or one of its dependencies could not be resolved: Could not find artifact com.mycila:license-maven-plugin:jar:3.0 in io-cloudslang-maven-plugins-repository (https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts)
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.pom
+[WARNING] The POM for org.apache.maven.plugins:maven-deploy-plugin:jar:2.8.1 is missing, no dependency information available
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.jar
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-deploy-plugin:2.8.1: Plugin org.apache.maven.plugins:maven-deploy-plugin:2.8.1 or one of its dependencies could not be resolved: Could not find artifact org.apache.maven.plugins:maven-deploy-plugin:jar:2.8.1 in io-cloudslang-maven-plugins-repository (https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts)
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+[WARNING] Could not validate integrity of download from https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom: Checksum validation failed, no checksums available
+[WARNING] Checksum validation failed, no checksums available for https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+[INFO] Downloaded: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom (8 KB at 396.2 KB/sec)
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+[WARNING] Could not validate integrity of download from https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar: Checksum validation failed, no checksums available
+[WARNING] Checksum validation failed, no checksums available for https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+[INFO] Downloaded: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar (29 KB at 1310.3 KB/sec)
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+[WARNING] Could not validate integrity of download from https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom: Checksum validation failed, no checksums available
+[WARNING] Checksum validation failed, no checksums available for https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+[INFO] Downloaded: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom (6 KB at 271.3 KB/sec)
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+[WARNING] Could not validate integrity of download from https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar: Checksum validation failed, no checksums available
+[WARNING] Checksum validation failed, no checksums available for https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+[INFO] Downloaded: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar (34 KB at 1510.2 KB/sec)
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.pom
+[WARNING] The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4 is missing, no dependency information available
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:2.12.4: Plugin org.apache.maven.plugins:maven-surefire-plugin:2.12.4 or one of its dependencies could not be resolved: Could not find artifact org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4 in io-cloudslang-maven-plugins-repository (https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts)
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building io.cloudslang.content:cs-amazon 1.0.11
+[INFO] ------------------------------------------------------------------------
+[WARNING] The POM for com.mycila:license-maven-plugin:jar:3.0 is missing, no dependency information available
+[WARNING] Failed to retrieve plugin descriptor for com.mycila:license-maven-plugin:3.0: Plugin com.mycila:license-maven-plugin:3.0 or one of its dependencies could not be resolved: Failure to find com.mycila:license-maven-plugin:jar:3.0 in https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts was cached in the local repository, resolution will not be reattempted until the update interval of io-cloudslang-maven-plugins-repository has elapsed or updates are forced
+[WARNING] The POM for org.apache.maven.plugins:maven-deploy-plugin:jar:2.8.1 is missing, no dependency information available
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-deploy-plugin:2.8.1: Plugin org.apache.maven.plugins:maven-deploy-plugin:2.8.1 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-deploy-plugin:jar:2.8.1 in https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts was cached in the local repository, resolution will not be reattempted until the update interval of io-cloudslang-maven-plugins-repository has elapsed or updates are forced
+[WARNING] The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4 is missing, no dependency information available
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:2.12.4: Plugin org.apache.maven.plugins:maven-surefire-plugin:2.12.4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4 in https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts was cached in the local repository, resolution will not be reattempted until the update interval of io-cloudslang-maven-plugins-repository has elapsed or updates are forced
+[INFO] Downloading: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom
+[WARNING] Could not validate integrity of download from https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom: Checksum validation failed, no checksums available
+[WARNING] Checksum validation failed, no checksums available for https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom
+[INFO] Downloaded: https://go4sapmaster.helion1.hpintelco.org:8444/oo/m2/artifacts/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom (20 KB at 904.5 KB/sec)
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (default-cli) @ cs-amazon ---
+[INFO] Wrote classpath file '/usr/local/hpe/oo/central/var/repo/io/cloudslang/content/cs-amazon/1.0.11/cs-amazon-1.0.11.path'.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.062 s
+[INFO] Finished at: 2018-03-05T20:13:01+00:00
+[INFO] Final Memory: 1472M/3567M
+[INFO] ------------------------------------------------------------------------
+474 [1_WorkerExecutionThread-11_655500575] WARN org.apache.axis.transport.http.CommonsHTTPSender - RCDefaults was not loaded, will be using minimum configuration
+486 [1_WorkerExecutionThread-11_655500575] INFO org.apache.axis.transport.http.CommonsHTTPSender - configured Axis SOAP Http Sender: maxConnectionPerHost=16
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+scp: /var/vols/itom/hcm/shared/content/resources/dma-binaries/dma_oo_client_bin_linux.zip: No such file or directory
+java.io.IOException: Error: scp: /var/vols/itom/hcm/shared/content/resources/dma-binaries/dma_oo_client_bin_linux.zip: No such file or directory
+
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+reading wsdl from SiteScope host http://10.3.61.34:8080/SiteScope/services/APIConfigurationImpl
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
+Can't initialize jni4net BridgeCan't load library: /usr/local/hpe/oo/central/tomcat/temp/jni4net.n.l64.m26-0.8.6.0.dll
